@@ -1,0 +1,25 @@
+{
+  "playlists" : [
+  {
+    "id": "0",
+    "name": "Ma Premiere Playlist",
+    "description": "Playlist de base",
+    "thumbnail": "assets/img/0.png",
+    "songs": [{ "id": 0 }, { "id": 1 }]
+  },
+  {
+    "id": "1",
+    "name": "Playlist de Rock",
+    "description": "Playlist avec une descrption beaucoup plus longue",
+    "thumbnail": "assets/img/1.jpg",
+    "songs": [{ "id": 0 }, { "id": 3 }, { "id": 4 }]
+  },
+  {
+    "id": "2",
+    "name": "Discover Weekly",
+    "description": "Playlist avec beaucoup de chansons",
+    "thumbnail": "assets/img/2.jpeg",
+    "songs": [{ "id": 0 }, { "id": 1 }, { "id": 2 }, { "id": 3 }, { "id": 4 }]
+  }
+]
+}

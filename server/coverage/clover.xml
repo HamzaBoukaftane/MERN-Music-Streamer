@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1681098440607" clover="3.2.0">
+  <project timestamp="1681098440607" name="All files">
+    <metrics statements="92" coveredstatements="92" conditionals="16" coveredconditionals="16" methods="28" coveredmethods="28" elements="136" coveredelements="136" complexity="0" loc="92" ncloc="92" packages="1" files="5" classes="5"/>
+    <file name="database.service.js" path="/Users/hamzaboukaftane/Documents/BacPoly/Poly_Hiver_2023/LOG2440_cncptn_web/TD/TD5/tp5_2183376_2174916/server/services/database.service.js">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="30" type="stmt"/>
+      <line num="25" count="30" type="stmt"/>
+      <line num="29" count="29" type="stmt"/>
+      <line num="30" count="29" type="stmt"/>
+      <line num="32" count="29" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="40" count="4" type="stmt"/>
+      <line num="42" count="4" type="stmt"/>
+    </file>
+    <file name="file_system_manager.js" path="/Users/hamzaboukaftane/Documents/BacPoly/Poly_Hiver_2023/LOG2440_cncptn_web/TD/TD5/tp5_2183376_2174916/server/services/file_system_manager.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="playlist.service.js" path="/Users/hamzaboukaftane/Documents/BacPoly/Poly_Hiver_2023/LOG2440_cncptn_web/TD/TD5/tp5_2183376_2174916/server/services/playlist.service.js">
+      <metrics statements="48" coveredstatements="48" conditionals="12" coveredconditionals="12" methods="14" coveredmethods="14"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="20" type="stmt"/>
+      <line num="21" count="20" type="stmt"/>
+      <line num="22" count="20" type="stmt"/>
+      <line num="26" count="14" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="51" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="55" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="65" count="2" type="stmt"/>
+      <line num="66" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="74" count="1" type="stmt"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="80" count="1" type="stmt"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="83" count="1" type="stmt"/>
+      <line num="87" count="3" type="stmt"/>
+      <line num="91" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="92" count="2" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+      <line num="105" count="3" type="stmt"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="110" count="1" type="stmt"/>
+      <line num="113" count="2" type="stmt"/>
+    </file>
+    <file name="search_bar.service.js" path="/Users/hamzaboukaftane/Documents/BacPoly/Poly_Hiver_2023/LOG2440_cncptn_web/TD/TD5/tp5_2183376_2174916/server/services/search_bar.service.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="songs.service.js" path="/Users/hamzaboukaftane/Documents/BacPoly/Poly_Hiver_2023/LOG2440_cncptn_web/TD/TD5/tp5_2183376_2174916/server/services/songs.service.js">
+      <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="9" coveredmethods="9"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="19" count="10" type="stmt"/>
+      <line num="20" count="10" type="stmt"/>
+      <line num="21" count="10" type="stmt"/>
+      <line num="25" count="14" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="33" count="7" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="43" count="3" type="stmt"/>
+      <line num="47" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="63" count="3" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="72" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
